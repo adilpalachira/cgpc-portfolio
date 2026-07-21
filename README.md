@@ -9,13 +9,8 @@ portfolio/
 │
 ├── index.html
 ├── style.css
-│
-├── assets/
-│   ├── images/
-│   │   └── portrait.jpg
-│   ├── icons/
-│   ├── fonts/
-│   └── adil-m-resume.pdf
+├── portrait.jpg
+├── adil-m-resume.pdf
 │
 └── README.md
 ```
